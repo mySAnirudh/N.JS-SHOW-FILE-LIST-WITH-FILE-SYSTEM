@@ -1,0 +1,6 @@
+
+
+   1. Make file in folder 
+   2. Use path module
+   3. Get file names and print 
+   
